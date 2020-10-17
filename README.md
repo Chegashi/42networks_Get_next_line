@@ -11,4 +11,4 @@ Algorithms & AI
 Rigor
 
 # project page
-![docs](screen.png)
+![docs](scren.png)
